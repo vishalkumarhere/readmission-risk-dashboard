@@ -8,6 +8,6 @@ Built as a healthcare analytics portfolio project. All data on the live demo is
 illustrative synthetic data modeled on publicly documented CMS readmission risk
 drivers. No real patient data or PHI is used.
 
-Live demo: see the deployed link in the repo description.
+Live demo: https://readmission-risk-dashboard.vercel.app
 
 Stack: Python, XGBoost, pandas, Flask concepts, inline SVG/HTML dashboard.
